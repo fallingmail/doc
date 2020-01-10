@@ -4,4 +4,4 @@
 
 You can use the [editor on GitHub](https://github.com/fallingmail/doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![logo](falling-mail.png)
+![logo](https://fallingmail.github.io/doc/falling-mail.png)
